@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hooponopono-react/static/css/main.21d6ab71.chunk.css",
+    "main.js": "/hooponopono-react/static/js/main.2e02f407.chunk.js",
+    "main.js.map": "/hooponopono-react/static/js/main.2e02f407.chunk.js.map",
+    "runtime-main.js": "/hooponopono-react/static/js/runtime-main.d1d8e71c.js",
+    "runtime-main.js.map": "/hooponopono-react/static/js/runtime-main.d1d8e71c.js.map",
+    "static/js/2.5ddf07cb.chunk.js": "/hooponopono-react/static/js/2.5ddf07cb.chunk.js",
+    "static/js/2.5ddf07cb.chunk.js.map": "/hooponopono-react/static/js/2.5ddf07cb.chunk.js.map",
+    "index.html": "/hooponopono-react/index.html",
+    "static/css/main.21d6ab71.chunk.css.map": "/hooponopono-react/static/css/main.21d6ab71.chunk.css.map",
+    "static/js/2.5ddf07cb.chunk.js.LICENSE.txt": "/hooponopono-react/static/js/2.5ddf07cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1d8e71c.js",
+    "static/js/2.5ddf07cb.chunk.js",
+    "static/css/main.21d6ab71.chunk.css",
+    "static/js/main.2e02f407.chunk.js"
+  ]
+}
